@@ -16,4 +16,4 @@ For the front-end site:
 5. In another terminal screen, navigate to the client folder.
 6. Type "npm install" to install dependencies for the front end.
 7. Type "npm start" to start the front-end application.
-8. Go to your browser(preferably Google Chrome), and browse to the URL http://localhost:5000/ .  This should display the site, and allow you to experience the site in its entirety.
+8. Go to your browser(preferably Google Chrome), and browse to the URL http://localhost:3000/ .  This should display the site, and allow you to experience the site in its entirety.
