@@ -245,12 +245,13 @@ body {
 }
 /* line 37, ../sass/global.sass */
 .header nav a {
-  color: rgba(255, 255, 255, 0.5);
+  color: white;
   margin-left: 20px;
 }
 /* line 40, ../sass/global.sass */
 .header nav a:hover {
   color: #fff;
+  color: black;
 }
 
 /* line 44, ../sass/global.sass */
@@ -339,7 +340,7 @@ p {
 
 /* line 102, ../sass/global.sass */
 .course--module {
-  background: #7c689b;
+  background: blue;
   border-radius: 8px;
   padding: 30px;
   margin-bottom: 30px;

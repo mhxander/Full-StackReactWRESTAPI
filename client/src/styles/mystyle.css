@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: rgb(66, 66, 66);
+  background-color:darkgray;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 .header {
-  background-color: rgb(11, 172, 139);
+  background-color: blue;
 }
 
 .actions--bar {
@@ -21,11 +21,11 @@ h1 {
 }
 
 .course--header .course--label {
-  color: rgb(11, 172, 139);
+  color: blue;
 }
 
 .course--header p {
-  color: rgb(11, 172, 139);
+  color: blue;
 }
 
 .course--description p {
@@ -33,7 +33,7 @@ h1 {
 }
 
 .course--stats--list h4 {
-  color: rgb(11, 172, 139);
+  color: blue;
 }
 
 .course--stats--list >li ul {
@@ -50,7 +50,7 @@ h1 {
 }
 
 .button {
-  background: rgb(11, 172, 139);
+  background: blue;
   color: rgb(255,255,255);
 }
 
@@ -64,7 +64,7 @@ h1 {
 
 .button-secondary {
   color: rgb(255, 255, 255);
-  background: rgb(11, 172, 139);
+  background: blue;
   box-shadow: none;
 }
 
@@ -82,7 +82,7 @@ a {
 }
 
 p {
-  color: rgb(11, 172, 139);
+  color: black;
 }
 .course--label {
   color: rgb(66, 66, 66);
